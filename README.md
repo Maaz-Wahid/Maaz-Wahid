@@ -1,3 +1,4 @@
+<h1 align="center">Hi there <img width="20" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Maaz</h1>
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning CKA
