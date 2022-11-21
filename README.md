@@ -17,7 +17,7 @@
 </details>
 
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently learning CKA
+- 🌱 I’m currently studying for the Certified Kubernetes Administrator certification 
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with securing a new role
 - 💬 Ask me about anything!
