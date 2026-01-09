@@ -19,15 +19,16 @@
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently studying for the Certified Kubernetes Administrator certification 
 - 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help with securing a new role
-- 💬 Ask me about anything!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-maaz-w-238382132/)
 - ⚡ Fun fact: I train Brazilian Jiu-Jitsu!
+- 💬 Ask me about anything!
+[//]: # - 🤔 I’m looking for help with securing a new role
+[//]: # - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-maaz-w-238382132/)
 
-### 🖋 Medium Articles (more on the way!)
 
-- [Why I refused a 40k starting salary and decided to shift from a career in Teaching to Tech (Cloud/DevOps)
-](https://medium.com/@maaz8398/why-i-refused-a-40k-starting-salary-and-decided-to-shift-from-a-career-in-teaching-to-tech-e634dd7afa1c)
+[//]: # ### 🖋 Medium Articles (more on the way!)
+
+[//]: # - [Why I refused a 40k starting salary and decided to shift from a career in Teaching to Tech (Cloud/DevOps)
+[//]: # ](https://medium.com/@maaz8398/why-i-refused-a-40k-starting-salary-and-decided-to-shift-from-a-career-in-teaching-to-tech-e634dd7afa1c)
 
 
 <h3 align="left">🤝 Let's connect:</h3>
