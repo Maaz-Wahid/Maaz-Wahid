@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img width="20" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Maaz</h1>
+<h1 align="center">Hi there, I'm Maaz</h1>
 
 <p align="center">
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
@@ -19,17 +19,17 @@
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently studying for the Certified Kubernetes Administrator certification 
 - 👯 I’m looking to collaborate on Python projects
-- ⚡ Fun fact: I train Brazilian Jiu-Jitsu!
 - 💬 Ask me about anything!
-[//]: # - 🤔 I’m looking for help with securing a new role
-[//]: # - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-maaz-w-238382132/)
+- ⚡ Fun fact: I train Brazilian Jiu-Jitsu!
+<!--
+- 🤔 I’m looking for help with securing a new role
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-maaz-w-238382132/)
 
+### 🖋 Medium Articles (more on the way!)
 
-[//]: # ### 🖋 Medium Articles (more on the way!)
-
-[//]: # - [Why I refused a 40k starting salary and decided to shift from a career in Teaching to Tech (Cloud/DevOps)
-[//]: # ](https://medium.com/@maaz8398/why-i-refused-a-40k-starting-salary-and-decided-to-shift-from-a-career-in-teaching-to-tech-e634dd7afa1c)
-
+- [Why I refused a 40k starting salary and decided to shift from a career in Teaching to Tech (Cloud/DevOps)
+](https://medium.com/@maaz8398/why-i-refused-a-40k-starting-salary-and-decided-to-shift-from-a-career-in-teaching-to-tech-e634dd7afa1c)
+-->
 
 <h3 align="left">🤝 Let's connect:</h3>
 <p align="left">
